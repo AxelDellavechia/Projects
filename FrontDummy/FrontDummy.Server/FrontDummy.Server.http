@@ -1,0 +1,6 @@
+@FrontDummy.Server_HostAddress = http://localhost:5222
+
+GET {{FrontDummy.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

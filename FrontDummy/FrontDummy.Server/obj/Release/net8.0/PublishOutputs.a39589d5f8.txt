@@ -1,0 +1,12 @@
+C:\Users\Yusulf\source\repos\FrontDummy\target\FrontDummy.Server.exe
+C:\Users\Yusulf\source\repos\FrontDummy\target\appsettings.Development.json
+C:\Users\Yusulf\source\repos\FrontDummy\target\appsettings.json
+C:\Users\Yusulf\source\repos\FrontDummy\target\FrontDummy.Server.dll
+C:\Users\Yusulf\source\repos\FrontDummy\target\FrontDummy.Server.deps.json
+C:\Users\Yusulf\source\repos\FrontDummy\target\FrontDummy.Server.runtimeconfig.json
+C:\Users\Yusulf\source\repos\FrontDummy\target\FrontDummy.Server.pdb
+C:\Users\Yusulf\source\repos\FrontDummy\target\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Yusulf\source\repos\FrontDummy\target\Microsoft.OpenApi.dll
+C:\Users\Yusulf\source\repos\FrontDummy\target\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yusulf\source\repos\FrontDummy\target\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yusulf\source\repos\FrontDummy\target\Swashbuckle.AspNetCore.SwaggerUI.dll
